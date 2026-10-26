@@ -1,0 +1,29 @@
+td{
+    border: 2px, solid #ababab;
+    padding: 45px;
+}
+table{
+    margin:auto;
+}
+
+body{
+    background-color: #eeeeee
+}
+
+h1{
+    color: #283e8f;
+    text-align:center;
+}
+
+a href{
+    display:block;
+    text-align:right;
+}
+
+caption{
+    font-style: oblique;
+}
+
+p{
+    font-size:smaller;
+}
